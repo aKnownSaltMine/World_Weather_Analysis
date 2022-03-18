@@ -34,7 +34,7 @@ MANIFEST
 *.spec
 
 # ignore config file
-/config.py
+~/config.py
 
 # Installer logs
 pip-log.txt
